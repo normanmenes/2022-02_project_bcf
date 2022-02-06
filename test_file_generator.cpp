@@ -6,46 +6,31 @@
 
 using namespace std;
 
-int main()
-{
-	srand (time(NULL));
-	const unsigned short int numOfSign = 25000;
-	char sign;
+
+void generator_file(char* fileName) {
+    const unsigned short int numOfSign = 25000;
+    char sign;
     fstream file;
     
-    // fileA
-    file.open("fileA.txt", ios::out);
+    file.open(fileName, ios::out);
     for (int i = 0; i < numOfSign; i++) {
     	sign = rand() % 128 + 32;
-		if (static_cast<unsigned short int>(sign) == 127) file << endl;
-		else file << sign;
-	}
+    	if (static_cast<unsigned short int>(sign) == 127) file << endl;
+    	else file << sign;
+    }
     file.close();
+}
+
+
+int main()
+{
+    srand (time(NULL));
     
-    // fileB
-    file.open("fileB.txt", ios::out);
-    for (int i = 0; i < numOfSign; i++) {
-		sign = rand() % 128 + 32;
-		if (static_cast<unsigned short int>(sign) == 127) file << endl;
-		else file << sign;
-	}
-    file.close();
+    // fileA ... fileD
+    generator_file("fileA.txt");
+    generator_file("fileB.txt");
+    generator_file("fileC.txt");
+    generator_file("fileD.txt");
     
-    // fileC
-    file.open("fileC.txt", ios::out);
-    for (int i = 0; i < numOfSign; i++) {
-		sign = rand() % 128 + 32;
-		if (static_cast<unsigned short int>(sign) == 127) file << endl;
-		else file << sign;
-	}
-    file.close();
-    
-    // fileD
-    file.open("fileD.txt", ios::out);
-    for (int i = 0; i < numOfSign; i++) {
-		sign = rand() % 128 + 32;
-		if (static_cast<unsigned short int>(sign) == 127) file << endl;
-		else file << sign;
-	}
-    file.close();
+    return 0;
 }
