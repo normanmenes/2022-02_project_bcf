@@ -30,7 +30,7 @@ Program zliczył również wartości z programu realizującego to zadanie. Po pr
 Program przekazuje do funkcji *"numOfLines"* swoją pełną nazwę i zwróconą wartość odejmuje ze zmiennej *"count_numOfLines"*. <br />
 Następuje dekrementacja zmiennej *"count_numOfFiles"* liczącej liczbę plików. <br />
 
-Na zakończenie uruchamiany jest test sprawdzający poprawność zwracanych wartości przez funkcję *"numOfLines"*. Pliki testowe zostały wygenerowane za pomocą programu *"test_file_generator.exe"*, a liczba linijek w plikach testowych została sprawdzona w *Notepad++ v8.1.9.3*.
+Na zakończenie uruchamiany jest test sprawdzający poprawność zwracanych wartości przez funkcję *"numOfLines"*. Pliki testowe zostały wygenerowane za pomocą programu [test_file_generator.exe](https://github.com/normanmenes/2022-02_project_bcf/blob/main/test_file_generator.cpp), a liczba linijek w plikach testowych została sprawdzona w *Notepad++ v8.1.9.3*.
 
 ## Parametry techniczne
 
