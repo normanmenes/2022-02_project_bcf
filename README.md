@@ -3,8 +3,7 @@
 ## Uruchamianie programu
 
 url: [https://github.com/normanmenes/2022-02_project_bcf](https://github.com/normanmenes/2022-02_project_bcf) <br />
-Pobierz cały program (archiwum SFX): [download](https://github.com/normanmenes/2022-02_project_bcf/releases/download/release_1.0/2022-02_project_bcf_v1.0.exe) <br />
-lub pobierz całą zawartość katalogu: [/Release](https://github.com/normanmenes/2022-02_project_bcf/tree/main/Release/)<br />
+Pobierz wszystkie pliki programu (archiwum SFX): [download](https://github.com/normanmenes/2022-02_project_bcf/releases/download/release_1.0/2022-02_project_bcf_v1.0.exe) lub całą zawartość katalogu: [/Release](https://github.com/normanmenes/2022-02_project_bcf/tree/main/Release/)<br />
 Uruchom program: [2022-02_project_bcf.exe](https://github.com/normanmenes/2022-02_project_bcf/tree/main/Release/2022-02_project_bcf.exe) <br />
 
 
