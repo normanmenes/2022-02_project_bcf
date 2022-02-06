@@ -2,10 +2,11 @@
 
 ## Uruchamianie programu
 
-Strona: [https://github.com/normanmenes/2022-02_project_bcf](https://github.com/normanmenes/2022-02_project_bcf) <br />
-Pobierz całą zawartość katalogu: [/Release](https://github.com/normanmenes/2022-02_project_bcf/tree/main/Release) <br />
-Uruchom: [/Release/2022-02_project_bcf.exe](https://github.com/normanmenes/2022-02_project_bcf/tree/main/Release/2022-02_project_bcf.exe) <br />
-Katalog: [/Release/test_files](https://github.com/normanmenes/2022-02_project_bcf/tree/main/Release/test_files/) zawiera pliki niezbędne do przeprowadzenia prawidłowych testów <br />
+url: [https://github.com/normanmenes/2022-02_project_bcf](https://github.com/normanmenes/2022-02_project_bcf) <br />
+Pobierz cały program (archiwum SFX): [download](https://github.com/normanmenes/2022-02_project_bcf/releases/download/release_1.0/2022-02_project_bcf_v1.0.exe) <br />
+lub pobierz całą zawartość katalogu: [/Release](https://github.com/normanmenes/2022-02_project_bcf/tree/main/Release/)<br />
+Uruchom program: [2022-02_project_bcf.exe](https://github.com/normanmenes/2022-02_project_bcf/tree/main/Release/2022-02_project_bcf.exe) <br />
+
 
 
 ## Podstawowe funkcje i zmienne
