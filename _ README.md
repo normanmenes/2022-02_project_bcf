@@ -2,10 +2,10 @@
 
 ## Uruchamianie programu
 
-Strona: [https://github.com/normanmenes/2022-02_project_bcf](https://github.com/normanmenes/2022-02_project_bcf)
-Pobierz całą zawartość katalogu: /Release
-Uruchom: /Release/2022-02_project_bcf.exe
-Katalog: /Release/test_files zawiera pliki niezbędne do przeprowadzenia prawidłowych testów
+Strona: [https://github.com/normanmenes/2022-02_project_bcf](https://github.com/normanmenes/2022-02_project_bcf) <br />
+Pobierz całą zawartość katalogu: /Release <br />
+Uruchom: /Release/2022-02_project_bcf.exe <br />
+Katalog: /Release/test_files zawiera pliki niezbędne do przeprowadzenia prawidłowych testów <br />
 
 
 ## Podstawowe funkcje i zmienne
@@ -34,10 +34,10 @@ Na zakończenie uruchamiany jest test sprawdzający poprawność zwracanych wart
 
 ## Parametry techniczne
 
-**OS:** Windows 10
-**Standard języka:** C++17
-**Platforma:** Visual Studio 2019 (v142)
+**OS:** Windows 10 <br />
+**Standard języka:** C++17 <br />
+**Platforma:** Visual Studio 2019 (v142) <br />
 
 ## Autor rozwiązania
-Norman Menes, Poznań
+Norman Menes, Poznań <br />
 dla Bright Coders' Factory Opole
