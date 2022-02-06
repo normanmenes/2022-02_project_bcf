@@ -1,0 +1,11 @@
+".\\dir\\folder\\test_fileD.txt"
+linijki w pliku: 233
+
+".\\dir\\test_fileC.txt"
+linijki w pliku: 209
+
+".\\test_fileA.txt"
+linijki w pliku: 213
+
+".\\test_fileB.txt"
+linijki w pliku: 198
