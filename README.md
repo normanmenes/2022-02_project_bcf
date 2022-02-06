@@ -40,4 +40,4 @@ Na zakończenie uruchamiany jest test sprawdzający poprawność zwracanych wart
 
 ## Autor rozwiązania
 Norman Menes, Poznań <br />
-dla Bright Coders' Factory Opole
+dla Bright Coders' Factory Opole 
